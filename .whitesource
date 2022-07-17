@@ -1,3 +1,10 @@
 {
-  "settingsInheritedFrom": "a"
+  "settingsInheritedFrom": "a",
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": true
+    },
+    "enableRenovate": true,
+    "extends": ["github>mend/merge-confidence:beta"]  
+  }
 }
