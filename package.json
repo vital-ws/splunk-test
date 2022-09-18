@@ -2,6 +2,7 @@
     "name": "splunk",
     "dependencies": {
         "express": "3.11.0",
-        "lodash": "4.17.20"
+        "lodash": "4.17.20",
+        "less-openui5":"0.1.2"
     }
 }
