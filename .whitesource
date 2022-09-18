@@ -1,5 +1,8 @@
 {
-  "settingsInheritedFrom": "a",
+  "settingsInheritedFrom": "vital-ws/whitesource-config@main",
+  "scanSettings": {
+  "baseBranches" : ["main", "feature", "new-new-new", "new-feature"]
+  },
   "remediateSettings": {
   
     "workflowRules": {
