@@ -9,7 +9,6 @@
       "enabled": true,
       "minVulnerabilitySeverity":"LOW"
     },
-    "enableRenovate": true,
     "platformCommit": true
   }
 }
